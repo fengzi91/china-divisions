@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba233de0-a0c2-424a-bfe4-4e9d6205e292" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605946917219</updated>
-      <workItem from="1605946918333" duration="24000" />
+      <workItem from="1605946918333" duration="123000" />
     </task>
     <servers />
   </component>
